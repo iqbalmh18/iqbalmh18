@@ -1,3 +1,1 @@
-Hi ğŸ‘‹ğŸ», I'm **Iqbal**! A passionate individual in the field of cybersecurity, currently self-learning programming languages. I'm dedicated to improving digital security through hands-on projects.
-
-Founder of [**Termux Hackers ID**](https://github.com/termuxhackers-id)
+ãÎ½ÛGôõÿuñ·ôõÿm½œÛN=Û¾ÛMšÙ®=ï^¶ë^œéŞ¼ß]üÙ­šÛ]´ã]´ïNµï~÷ëŞŸéîµï¹ÛN½éî¸ëŞúëŞ¸ïµéÍ´ëŞÛNøëÎ¹ÛNºëŞ¹éÎ¸ÛNŸë­´ë~ıën¹ïn÷ë·ïöëŞøïİœÛN·ïöïn¹éîøéÎıÛN÷ëœë­éÎ¹ë^öéî½éî»ÛNôïnŸë¾öë^éŞ½éî»ÛNœë^ë¾ùë^»ë÷Ùí´ãİ»éİ´ë¹ë½ë~µï¹ë´ïŸÛN½éŞôïnŸï®½éî»ÛN¸ëŞ»ëŞøë^œÛN÷ë·ïöëŞøïİ´ï¼ïnŸï»ëÍ´ëÎµéî¸ï}éşÛNôïnŸé®¹ë~øï}Ñ­ã®Ÿïë¹ïm´éşºÛN[Ù­šç¹ïnïüÛN<ë^·é¾¹ïn÷ÛN=ãšÙ®]ÛÎ¼ïøïN÷İ­ŸÙş»ëŞøëÎùëmë~ŸéİŸï¹ïnïüëÎµë~›ëöï}ëŞ¸Ûİ
