@@ -1,1 +1,3 @@
-γΞ½ΫGτυÿuρ·τυÿm½ΫN=ΫΎΫMΩ®=ο^¶λ^ιήΌί]όΩ­Ϋ]΄γ]΄οNµο~χλήιξµοΉΫN½ιξΈλήϊλήΈοµιΝ΄λήΫNψλΞΉΫNΊλήΉιΞΈΫNλ­΄λ~ύλnΉοnχλ·οφλήψοέΫN·οφοnΉιξψιΞύΫNχλλ­ιΞΉλ^φιξ½ιξ»ΫNτοnλΎφλ^ιή½ιξ»ΫNλ^λΎωλ^»λχΩν΄γέ»ιέ΄λΉλ½λ~µοΉλ΄οΫN½ιήτοnο®½ιξ»ΫNΈλή»λήψλ^ΫNχλ·οφλήψοέ΄οΌοnο»λΝ΄λΞµιξΈο}ιώΫNτοnι®Ήλ~ψο}Ρ­γ®ολΉοm΄ιώΊΫN[Ω­ηΉοnοόΫN<λ^·ιΎΉοnχΫN=γΩ®]ΫΞΌοψοNχέ­Ωώ»λήψλΞωλmλ~ιέοΉοnοόλΞµλ~›λφο}λήΈΫέ
+Hi π‘‹π», I'm **Iqbalmh18**! A passionate individual in the field of cybersecurity, currently self-learning programming languages. I'm dedicated to improving digital security through hands-on projects.
+
+Founder of [**Termux Hackers ID**](https://github.com/termuxhackers-id)
