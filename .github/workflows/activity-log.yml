@@ -1,19 +1,28 @@
 name: Activity Log
+
 on:
   schedule:
     - cron: "0 */2 * * *"
   workflow_dispatch:
+
 permissions:
   contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: fregante/setup-git-user@v2
+
+      - name: Set Git User
+        run: |
+          git config --global user.name "iqbalmh18"
+          git config --global user.email "iqbalmh18.dev@gmail.com"
+
       - name: Update Activity Log
         run: |
           date '+%Y-%m-%d %H:%M:%S' >> ACTIVITY.log
+
       - name: Commit and Push
         run: |
           git add ACTIVITY.log
