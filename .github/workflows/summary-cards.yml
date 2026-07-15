@@ -26,6 +26,6 @@ jobs:
           EXCLUDE: ""
           AUTO_PUSH: true
           THEME: "graywhite"
-          ANIMATION: "fade"
+          ANIMATION: ""
           DURATION: ""
           NAME: ""
